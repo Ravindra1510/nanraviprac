@@ -1,0 +1,11 @@
+
+<suite name="Suite">
+  <test name="Test">
+  <listeners>
+  <listener class-name="uk.co.bt.generic.ListenersTestNG"/>
+  </listeners>
+    <classes>
+      <class name="uk.co.bt.script.Sample"/>
+    </classes>
+  </test> 
+</suite> 
